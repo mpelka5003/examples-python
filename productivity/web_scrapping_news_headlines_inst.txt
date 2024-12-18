@@ -1,0 +1,2 @@
+Stay updated with the latest news by scraping headlines from your favorite website. Python’s 'requests' and 'BeautifulSoup' libraries make this process seamless.
+Whether you’re a news junkie or need updates for work, this script can be scheduled to run daily.

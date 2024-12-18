@@ -1,0 +1,2 @@
+Start your day with a weather update! This script fetches weather data for your city using the OpenWeatherMap API and displays the temperature and forecast.
+With minor tweaks, you can have it send notifications directly to your phone.

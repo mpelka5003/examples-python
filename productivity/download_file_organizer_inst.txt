@@ -1,0 +1,2 @@
+If your Downloads folder is a chaotic mess, this script is for you. It organizes files by their extensions, neatly placing them into subfolders. No more sifting through dozens of files to find what you need!
+This script is especially useful for managing files like PDFs, images, or documents.
